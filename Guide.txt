@@ -1,0 +1,21 @@
+				ASSIGNMENT-3
+I had given presentation in the class .i am mentioning this as sir asked us to mention while sending file.
+
+The following are the steps to send image 
+1.i wrote a program which takes image and converts it to numbers and writes it to a file.
+2.In the same program it collects all the numbers from file and converts it to image.
+
+
+
+disadvantages:
+
+1.we have to manually do some meaningful text with the produced numbers in order to
+prevent hackers from knowing that it is a image.
+
+
+
+image name i took in file name is "focs.jpg" which i stored in "D://java/focs.jpg"
+
+it produces one doc file which stores in "D://test.doc";
+
+it reproduces image again in the same folder as "D://java//rose2.java".
